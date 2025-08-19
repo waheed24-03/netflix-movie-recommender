@@ -35,3 +35,11 @@ An interactive Streamlit-based web app that lets users filter Netflix content ba
 ```bash
 git clone https://github.com/waheed24-03/netflix-recommender.git
 cd netflix-recommender
+```
+
+# 👤 Author
+-  Syed Abdul Waheed
+-  Data Science Enthusiast | Python Developer | Automation Explorer
+
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdu
+

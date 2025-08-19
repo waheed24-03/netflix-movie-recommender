@@ -35,6 +35,8 @@ An interactive Streamlit-based web app that lets users filter Netflix content ba
 ```bash
 git clone https://github.com/waheed24-03/netflix-recommender.git
 cd netflix-recommender
+streanlit run app.py
+
 ```
 
 # 👤 Author
